@@ -4,6 +4,6 @@ Braille Imgae to text converter is an easy way to understand braille just by upl
 ---
 
 
-###Features /
--Translate that text to other widely used languages /
--Text to speech conversion
+### Features 
+1. Translate that text to other widely used languages 
+2. Text to speech conversion
